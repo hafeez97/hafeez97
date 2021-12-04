@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hafeez97
 - 👀 I’m interested in non-interesting things
 - 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on projects using React
+- 💞️ I’m looking to collaborate in everything which has JS in it
 - 📫 reach me at hafeezshaikh197@gmail.com
 
 <!---
