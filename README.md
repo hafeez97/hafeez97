@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @hafeez97
-- 👀 I’m interested WEB3, Solidity
-- 🌱 I’m currently learning GO
-- 💞️ I’m looking to collaborate in everything which has JS and GO init
+- 👋 Hi, I’m Hafeez
+- 👀 I’m interested in Open-source software, React and WEB3.
+- 💞️ I’m looking to collaborate in everything which has JS init
 - 📫 reach me at hafeezshaikh197@gmail.com
 
 <!---
